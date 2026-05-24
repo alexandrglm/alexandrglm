@@ -1,6 +1,7 @@
 # It's Alexander! 👋
 
-Mainframe software developer, freelance, focused on Full-Stack with a deep, uncompromising affinity for the back-end. Currently studying **Software Engineering**.
+Mainframe software developer, freelance, focused on Full-Stack with a deep, uncompromising affinity for the back-end.  
+Currently studying **Software Engineering**.  
 My coding journey started at just four years old, writing BASIC for a Z80 derivative.  
 If I have one regret, it's not pivoting into a full-time software engineering career until well into my 30s.
 
