@@ -1,6 +1,6 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:e8472a,100:ff8c42&height=200&section=header&text=It's%20Alexander!&fontSize=55&animation=twinkling&fontColor=d0ff01&fontAlignY=40&stroke=2d2d2d&strokeWidth=3)
+  
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:8b0000,50:e8472a,100:ff8c42&height=200&section=header&text=It's%20Alexander!&fontSize=55&animation=scaleIn&fontColor=d0ff01&fontAlignY=50&stroke=1a1a1a&strokeWidth=1)
 
 </div>
 
