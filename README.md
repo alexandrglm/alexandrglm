@@ -57,6 +57,7 @@ I genuinely wish I were handier with SMD, micro-electronics, and soldering... ho
     *   Software Engineering
     *   Core Java & Spring Boot ecosystem
     *   Data structures and algorithms
+    *   BI, BigData applied to Data Science projects, Data Analytics
 
 *   **📚 Languages I'd like to go deeper into:**
     *   Rust
