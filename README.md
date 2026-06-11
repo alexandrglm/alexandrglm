@@ -67,6 +67,7 @@ I genuinely wish I were handier with SMD, micro-electronics, and soldering... ho
 *   **💬 Languages you can approach me in:**
     *   UML
     *   C++ (and some pure C fundamentals, pre-OOP era)
+    *   Python
     *   Java SE
     *   JavaScript / TypeScript / Node.js whole ecosystem
     *   SQL, GraphML, PromQL
